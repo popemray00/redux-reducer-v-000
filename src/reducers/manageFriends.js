@@ -1,6 +1,7 @@
 export function manageFriends(state, action){
   switch (action.type) {
-    case expression:
+    case "ADD_FRIEND":
+      return {ADD_FRIEND: state.ADD_FRIEND}
 
       break;
     default:
