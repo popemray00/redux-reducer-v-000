@@ -1,9 +1,9 @@
 export function manageFriends(state, action){
-  switch (expression) {
+  switch (action.type) {
     case expression:
-      
+
       break;
     default:
-      
+
   }
 }
